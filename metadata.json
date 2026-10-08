@@ -1,0 +1,6 @@
+{
+  "name": "AirPrompter Banner",
+  "description": "Train AI To Think More Like You, Every Time - AirPrompter banner with workflow system architecture diagram on a crisp white canvas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
